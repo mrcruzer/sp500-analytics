@@ -11,10 +11,13 @@ Los mercados financieros son el espacio donde se encuentra la oferta y la demand
 - Nuestro ceo de inversiones, nos pidio que quiere invertir especificamente en el sector / Energia
 - Debemos tomar las mejores empresas con Mayor Cierre de los ultimos 23 años.
 - Dashboard representativo.
+- Hacer analisis minucioso del indice S&P500
 
 ### Datos
 
 Yahoo Finance
 
 ![](https://raw.githubusercontent.com/mrcruzer/sp500-analytics/master/src/yahoo.png)
+
+[Link Yahoo finance:] (https://finance.yahoo.com/)
 
