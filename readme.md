@@ -19,5 +19,5 @@ Yahoo Finance
 
 ![](https://raw.githubusercontent.com/mrcruzer/sp500-analytics/master/src/yahoo.png)
 
-[Link](https://finance.yahoo.com)
+[Yahoo Finance](https://finance.yahoo.com)
 
