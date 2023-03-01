@@ -14,7 +14,7 @@ Los mercados financieros son el espacio donde se encuentra la oferta y la demand
 
 ### Datos
 
-Tengo 4 datasets de HULU, DISNEY PLUS, AMAZON PRIME, NETFLIX
+Yahoo Finance
 
 ![](https://raw.githubusercontent.com/mrcruzer/sp500-analytics/master/src/yahoo.png)
 
