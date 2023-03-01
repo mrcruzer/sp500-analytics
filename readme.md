@@ -21,3 +21,13 @@ Yahoo Finance
 
 [Yahoo Finance](https://finance.yahoo.com)
 
+### EDA
+
+"Exploratory Data Analysis" o "Análisis Exploratorio de Datos" en español. Es un proceso clave en el desarrollo de proyectos ya que ayuda a comprender mejor los datos que se utilizarán para en este caso establecer información de calidad.
+
+Se escogio Especificamente las empresas del sector de energia
+
+### Archivo PBIX
+
+[Link Google drive](https://drive.google.com/drive/folders/1BScXXc5zLjqfHJ6cwzbummBckRP9TSz_)
+
