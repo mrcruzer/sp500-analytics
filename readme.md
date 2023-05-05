@@ -15,6 +15,17 @@ Este proyecto tiene como objetivo analizar el mercado bursátil S&P 500 y aplica
 - Dashboard representativo.
 - Hacer analisis minucioso del indice S&P500
 
+
+### Pasos
+
+Ingesta y limpieza de datos: Se buscó y se descargó datos históricos del S&P 500 a través de la API de Yahoo Finance. Se limpiaron y procesaron los datos para poder analizarlos posteriormente.
+
+Análisis exploratorio de datos (EDA): Se realizaron visualizaciones y se exploraron los datos para encontrar patrones y tendencias. Se examinaron los precios de cierre, los volúmenes de negociación y otros datos relevantes para el análisis.
+
+Cálculo de KPIs: Se calcularon varios KPIs para evaluar el rendimiento del mercado bursátil. Estos KPIs incluyen la capitalización de mercado, el retorno sobre el patrimonio (ROE), las ganancias por acción (EPS) y la relación de Sharpe.
+
+Creación de un dashboard en PowerBI: Finalmente, se creó un dashboard interactivo en PowerBI para presentar los resultados de manera clara y fácil de entender para el cliente.
+
 ### Datos
 
 Yahoo Finance
