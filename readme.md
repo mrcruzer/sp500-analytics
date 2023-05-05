@@ -1,4 +1,4 @@
-# PROYECTO 2 -- Analytics SP-500
+# Análisis de datos del mercado bursátil (S&P 500) - Sector Energia
 
 ![](https://raw.githubusercontent.com/mrcruzer/sp500-analytics/master/src/mercado_bursatil.png)
 
