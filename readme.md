@@ -8,7 +8,9 @@ Los mercados financieros son el espacio donde se encuentra la oferta y la demand
 
 ### Objetivos
 
-- Nuestro ceo de inversiones, nos pidio que quiere invertir especificamente en el sector / Energia
+Este proyecto tiene como objetivo analizar el mercado bursátil S&P 500 y aplicar diversas técnicas de análisis de datos para entender su funcionamiento y obtener información valiosa para una empresa sin conocimientos financieros. Se utilizaron datos obtenidos a través de la API de yFinance, Webscraping y se realizaron análisis exploratorios de los datos, así como la creación de KPIs y visualizaciones en Power BI para una mejor comprensión y toma de decisiones.
+
+- Nuestro ceo de inversiones, Especificamente en el sector / Energia. Por lo tanto se analizara este sector en especifico
 - Debemos tomar las mejores empresas con Mayor Cierre de los ultimos 23 años.
 - Dashboard representativo.
 - Hacer analisis minucioso del indice S&P500
